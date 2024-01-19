@@ -1,4 +1,4 @@
-package io.github.aschermuk.springcrud.error;
+package io.github.arischermuk.springcrud.error;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

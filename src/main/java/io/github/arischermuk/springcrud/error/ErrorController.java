@@ -1,4 +1,4 @@
-package io.github.aschermuk.springcrud.error;
+package io.github.arischermuk.springcrud.error;
 
 
 import static org.springframework.http.HttpStatus.BAD_REQUEST;

@@ -1,4 +1,4 @@
-package io.github.aschermuk.springcrud.utils;
+package io.github.arischermuk.springcrud.utils;
 
 import static org.springframework.data.domain.Sort.Direction.fromString;
 

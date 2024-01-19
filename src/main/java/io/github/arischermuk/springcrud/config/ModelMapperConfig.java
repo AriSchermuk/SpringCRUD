@@ -1,4 +1,4 @@
-package io.github.aschermuk.springcrud.config;
+package io.github.arischermuk.springcrud.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

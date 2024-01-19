@@ -1,4 +1,4 @@
-package io.github.aschermuk.springcrud.entities;
+package io.github.arischermuk.springcrud.entities;
 
 import static jakarta.persistence.GenerationType.IDENTITY;
 

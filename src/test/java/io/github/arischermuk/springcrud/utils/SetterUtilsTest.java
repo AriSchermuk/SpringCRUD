@@ -1,7 +1,7 @@
-package io.github.aschermuk.springcrud.utils;
+package io.github.arischermuk.springcrud.utils;
 
-import static io.github.aschermuk.springcrud.utils.SetterUtils.setEntityIfNotNull;
-import static io.github.aschermuk.springcrud.utils.SetterUtils.setIfNotNull;
+import static io.github.arischermuk.springcrud.utils.SetterUtils.setEntityIfNotNull;
+import static io.github.arischermuk.springcrud.utils.SetterUtils.setIfNotNull;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.mock;

@@ -1,4 +1,4 @@
-package io.github.aschermuk.springcrud.controller;
+package io.github.arischermuk.springcrud.controller;
 
 import static java.util.Objects.requireNonNull;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -6,7 +6,7 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 import static org.springframework.http.HttpStatus.OK;
 
-import io.github.aschermuk.springcrud.service.CRUDService;
+import io.github.arischermuk.springcrud.service.CRUDService;
 import org.junit.jupiter.api.Test;
 import org.springframework.http.ResponseEntity;
 

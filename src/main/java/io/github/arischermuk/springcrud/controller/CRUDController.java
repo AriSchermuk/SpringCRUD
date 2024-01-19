@@ -1,8 +1,8 @@
-package io.github.aschermuk.springcrud.controller;
+package io.github.arischermuk.springcrud.controller;
 
 import static org.springframework.http.ResponseEntity.ok;
 
-import io.github.aschermuk.springcrud.service.CRUDService;
+import io.github.arischermuk.springcrud.service.CRUDService;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotNull;
 import lombok.RequiredArgsConstructor;

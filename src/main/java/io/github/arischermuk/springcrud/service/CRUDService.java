@@ -1,9 +1,9 @@
-package io.github.aschermuk.springcrud.service;
+package io.github.arischermuk.springcrud.service;
 
-import static io.github.aschermuk.springcrud.utils.SortingResolver.resolveSorting;
+import static io.github.arischermuk.springcrud.utils.SortingResolver.resolveSorting;
 import static java.util.stream.Collectors.toList;
 
-import io.github.aschermuk.springcrud.entities.AppEntity;
+import io.github.arischermuk.springcrud.entities.AppEntity;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;

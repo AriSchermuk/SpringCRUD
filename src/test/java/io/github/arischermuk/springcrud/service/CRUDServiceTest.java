@@ -1,4 +1,4 @@
-package io.github.aschermuk.springcrud.service;
+package io.github.arischermuk.springcrud.service;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
@@ -9,7 +9,7 @@ import static org.mockito.Mockito.eq;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
-import io.github.aschermuk.springcrud.entities.AppEntity;
+import io.github.arischermuk.springcrud.entities.AppEntity;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityNotFoundException;
 import lombok.AllArgsConstructor;

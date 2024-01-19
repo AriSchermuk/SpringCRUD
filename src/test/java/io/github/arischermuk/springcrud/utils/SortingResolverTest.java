@@ -1,4 +1,4 @@
-package io.github.aschermuk.springcrud.utils;
+package io.github.arischermuk.springcrud.utils;
 
 import static java.util.Objects.requireNonNull;
 import static org.junit.jupiter.api.Assertions.assertEquals;

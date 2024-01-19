@@ -19,7 +19,7 @@
         </plugins>
     </build>
 
-    <groupId>io.github.aschermuk</groupId>
+    <groupId>io.github.arischermuk</groupId>
     <artifactId>SpringCRUD</artifactId>
     <version>1.0.0</version>
     <name>SpringCRUD</name>
