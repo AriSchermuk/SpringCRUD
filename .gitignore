@@ -31,5 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
-/public-key.asc
-/revoke.asc
+*.asc
